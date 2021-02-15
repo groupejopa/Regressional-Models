@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
 ```
 
-#### Executive Summary
+### Executive Summary
 This report analyzed the relationship between transmission type (manual or 
 automatic) and miles per gallon (MPG). The report set out to determine which 
 transmission type produces a higher MPG. The `mtcars` dataset was used for this
