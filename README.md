@@ -1,6 +1,6 @@
 # Regressional-Models
 
-# Executive Summary
+### Executive Summary
 This report analyzed the relationship between transmission type (manual or 
 automatic) and miles per gallon (MPG). The report set out to determine which 
 transmission type produces a higher MPG. The `mtcars` dataset was used for this
@@ -16,9 +16,9 @@ You work for Motor Trend, a magazine about the automobile industry. Looking at a
 “Is an automatic or manual transmission better for MPG”
 "Quantify the MPG difference between automatic and manual transmissions"  
 
-# Review criteria
+### Review criteria
 less 
-# Peer Grading
+### Peer Grading
 
 The criteria that your classmates will use to evaluate and grade your work are shown below.
 Each criteria is binary: (1 point = criteria met acceptably; 0 points = criteria not met acceptably)
